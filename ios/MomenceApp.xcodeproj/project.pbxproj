@@ -37,6 +37,25 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MomenceApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MomenceApp/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-MomenceApp-MomenceAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MomenceApp-MomenceAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1AC4C5242B2692B900439820 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		1AC4C5252B2692B900439820 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		1AC4C5262B2692B900439820 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		1AC4C5272B2692B900439820 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		1AC4C5282B2692B900439820 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		1AC4C5292B2692B900439820 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		1AC4C52A2B2692B900439820 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		1AC4C52B2B2692B900439820 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		1AC4C52C2B2692B900439820 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		1AC4C52D2B2692B900439820 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		1AC4C52E2B2692B900439820 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		1AC4C52F2B2692B900439820 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		1AC4C5302B2692B900439820 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		1AC4C5312B2692B900439820 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
+		1AC4C5322B2692B900439820 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		1AC4C5332B2692B900439820 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		1AC4C5342B2692B900439820 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		1AC4C5352B2692B900439820 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		1AC4C5362B2692B900439820 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-MomenceApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MomenceApp.debug.xcconfig"; path = "Target Support Files/Pods-MomenceApp/Pods-MomenceApp.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-MomenceApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MomenceApp.release.xcconfig"; path = "Target Support Files/Pods-MomenceApp/Pods-MomenceApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-MomenceApp-MomenceAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MomenceApp-MomenceAppTests.debug.xcconfig"; path = "Target Support Files/Pods-MomenceApp-MomenceAppTests/Pods-MomenceApp-MomenceAppTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -96,6 +115,33 @@
 			name = MomenceApp;
 			sourceTree = "<group>";
 		};
+		1AC4C5232B2692B900439820 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				1AC4C5242B2692B900439820 /* Fontisto.ttf */,
+				1AC4C5252B2692B900439820 /* Octicons.ttf */,
+				1AC4C5262B2692B900439820 /* Feather.ttf */,
+				1AC4C5272B2692B900439820 /* FontAwesome6_Regular.ttf */,
+				1AC4C5282B2692B900439820 /* Entypo.ttf */,
+				1AC4C5292B2692B900439820 /* FontAwesome5_Brands.ttf */,
+				1AC4C52A2B2692B900439820 /* MaterialCommunityIcons.ttf */,
+				1AC4C52B2B2692B900439820 /* AntDesign.ttf */,
+				1AC4C52C2B2692B900439820 /* Foundation.ttf */,
+				1AC4C52D2B2692B900439820 /* Ionicons.ttf */,
+				1AC4C52E2B2692B900439820 /* FontAwesome5_Solid.ttf */,
+				1AC4C52F2B2692B900439820 /* FontAwesome5_Regular.ttf */,
+				1AC4C5302B2692B900439820 /* FontAwesome.ttf */,
+				1AC4C5312B2692B900439820 /* Zocial.ttf */,
+				1AC4C5322B2692B900439820 /* EvilIcons.ttf */,
+				1AC4C5332B2692B900439820 /* FontAwesome6_Solid.ttf */,
+				1AC4C5342B2692B900439820 /* SimpleLineIcons.ttf */,
+				1AC4C5352B2692B900439820 /* FontAwesome6_Brands.ttf */,
+				1AC4C5362B2692B900439820 /* MaterialIcons.ttf */,
+			);
+			name = Fonts;
+			path = "../node_modules/react-native-vector-icons/Fonts";
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -116,6 +162,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				1AC4C5232B2692B900439820 /* Fonts */,
 				13B07FAE1A68108700A75B9A /* MomenceApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* MomenceAppTests */,
